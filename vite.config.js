@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  Base: "/UX-UI-app.git/"
+  Base: " https://mayravarela.github.io/UX-UI-app/"
 })
