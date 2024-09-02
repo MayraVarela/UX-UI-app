@@ -6,13 +6,14 @@ This is a professional portfolio repository showcasing my work. Built with React
 
 Perfectly placed media queries for satisfactory responsiveness covering almost all devices
 
-![Captura de pantalla 2024-09-02 144138](https://github.com/user-attachments/assets/537bb7cc-66b7-4663-b8af-f15ce5b35475)
+
 ![Captura de pantalla 2024-09-02 144003](https://github.com/user-attachments/assets/b43b4d28-6dfb-4bb0-b479-f00dfa74e4c7)
 ![Captura de pantalla 2024-09-02 144020](https://github.com/user-attachments/assets/79c9b32a-90f0-4402-a8e9-1da3569f0983)
 ![Captura de pantalla 2024-09-02 144037](https://github.com/user-attachments/assets/8442d06c-18cf-4428-8e24-4108f6bb5abf)
 ![Captura de pantalla 2024-09-02 144055](https://github.com/user-attachments/assets/49de73ab-afd4-4496-bab3-858fd34949fd)
 ![Captura de pantalla 2024-09-02 144111](https://github.com/user-attachments/assets/4b36fd99-e483-4de9-9436-a6f2ff2671d5)
 ![Captura de pantalla 2024-09-02 144128](https://github.com/user-attachments/assets/0a80afa3-0088-4603-9b74-a70fe3019250)
+![Captura de pantalla 2024-09-02 144138](https://github.com/user-attachments/assets/537bb7cc-66b7-4663-b8af-f15ce5b35475)
 
 
 DISEÑO TOTALMENTE RESPONSIVO
